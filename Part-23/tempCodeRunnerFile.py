@@ -1,0 +1,1 @@
+print("Can not vote")
